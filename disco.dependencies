@@ -6,9 +6,9 @@
         "revision": "lollipop-mr1"
     },
     {
-        "remote": "aosp",
-        "repository": "device/lge/mako-kernel",
+        "remote": "projectdisco",
+        "repository": "android_device_lge_mako-kernel",
         "target_path": "device/lge/mako-kernel",
-        "revision": "refs/tags/android-5.1.1_r4"
+        "revision": "lollipop"
     }
 ]

@@ -278,4 +278,6 @@
     <bool name="config_dozeAfterScreenOff">true</bool>
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
+    <bool name="config_doze_enabled_by_default">false</bool>
+
 </resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "remote": "blobs",
+        "repository": "proprietary_vendor_lge_mako",
+        "target_path": "vendor/lge/mako",
+        "revision": "lollipop-mr1"
+    },
+    {
+        "remote": "aosp",
+        "repository": "device/lge/mako-kernel",
+        "target_path": "device/lge/mako-kernel",
+        "revision": "refs/tags/android-5.1.1_r4"
+    }
+]
